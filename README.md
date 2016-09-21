@@ -4,7 +4,7 @@ Admin template made with :heart:  by [Akveo team](http://akveo.com/).
 
 ## Based on
 Angular, Bootstrap and lots of awesome modules and plugins.
-Look at [Akveo team admin template](https://akveo.github.io/ng-admin/) for more details.
+Look at [Akveo team admin template](https://akveo.github.io/blur-admin/) for more details.
 
 
 ## Features
